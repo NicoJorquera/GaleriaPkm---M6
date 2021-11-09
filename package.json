@@ -1,0 +1,16 @@
+{
+  "name": "galeria",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
